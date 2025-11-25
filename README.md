@@ -16,32 +16,6 @@ Interfejs użytkownika dla systemu optymalizacji ładowania pojazdów elektryczn
 * **Grafika/Efekty:** WebGL (Custom Shader Implementation)
 * **Style:** CSS3 Variables, Flexbox/Grid
 
-## 🚀 Instalacja i Uruchomienie
-
-### Wymagania
-* Node.js (v18 lub nowszy)
-* npm lub yarn
-
-### Instrukcja
-
-1. **Sklonuj repozytorium:**
-   ```bash
-   git clone https://github.com/KomendaKacper/energy-optimizer-frontend
-   cd energy-optimizer-frontend
-   ```
-
-2. **Zainstaluj zależności:**
-   ```bash
-   npm install
-   ```
-
-3. **Uruchom serwer deweloperski:**
-   ```bash
-   npm run dev
-   ```
-
-Aplikacja będzie dostępna pod adresem: `http://localhost:5173`
-
 ## ☁️ Deployment
 
 Frontend został wdrożony na platformie Render
