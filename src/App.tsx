@@ -20,7 +20,7 @@ interface OptimalChargingWindow {
   averageCleanEnergyPercentage: number;
 }
 
-const API_BASE_URL = 'https://energy-optimizer-backend-w9lq.onrender.com'; 
+const API_BASE_URL = 'https://energy-optimizer-backend-w9lq.onrender.com/api/energy'; 
 
 const FUEL_COLORS: { [key: string]: string } = {
   biomass: '#4ade80', 
